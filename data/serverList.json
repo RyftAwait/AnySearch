@@ -1,0 +1,198 @@
+{
+    
+    "Linésia": {
+        "ip": "play.linesia.net",
+        "port": "19132"
+    },
+
+    "NitroFaction": {
+        "ip": "nitrofaction.fr",
+        "port": "19132"
+    },
+
+    "Sideria": {
+        "ip": "sideria-mc.eu",
+        "port": "19132"
+    },
+
+    "Nephelia": {
+        "ip": "nephelia.fr",
+        "port": "19134"
+    },
+
+    "Zenith": {
+        "ip": "zenith.mcbe.fr",
+        "port": "19173"
+    },
+
+    "Plotonium_KitMap": {
+        "ip": "ploto.mcbe.fr",
+        "port": "19132"
+    },
+
+    "Plutoo_KitMap": {
+        "ip": "mcpe.plutoo.best",
+        "port": "19132"
+    },
+
+    "Asturite": {
+        "ip": "play.asturite.fr",
+        "port": "19132"
+    },
+
+    "AzSun": {
+        "ip": "azsun.eu",
+        "port": "19132"
+    },
+
+    "Landazia": {
+        "ip": "landazia.mcbe.fr",
+        "port": "19132"
+    },
+
+    "Historio_KitMap": {
+        "ip": "historio.mcbe.fr",
+        "port": "19132"
+    },
+
+
+
+    "Zeqa_EU1": {
+        "ip": "eu.zeqa.net",
+        "port": "10001"
+    },
+
+    "Zeqa_EU2": {
+        "ip": "eu.zeqa.net",
+        "port": "10002"
+    },
+
+    "Zeqa_EU3": {
+        "ip": "eu.zeqa.net",
+        "port": "10003"
+    },
+
+    "Zeqa_EU4": {
+        "ip": "eu.zeqa.net",
+        "port": "10004"
+    },
+
+    "Zeqa_EU5": {
+        "ip": "eu.zeqa.net",
+        "port": "10005"
+    },
+
+    "Zeqa_EU6": {
+        "ip": "eu.zeqa.net",
+        "port": "10006"
+    },
+
+
+    "Zeqa_NA1": {
+        "ip": "na.zeqa.net",
+        "port": "10001"
+    },
+
+    "Zeqa_NA2": {
+        "ip": "na.zeqa.net",
+        "port": "10002"
+    },
+
+    "Zeqa_NA3": {
+        "ip": "na.zeqa.net",
+        "port": "10003"
+    },
+
+    "Zeqa_NA4": {
+        "ip": "na.zeqa.net",
+        "port": "10004"
+    },
+
+    "Zeqa_NA5": {
+        "ip": "na.zeqa.net",
+        "port": "10005"
+    },
+
+    "Zeqa_NA6": {
+        "ip": "na.zeqa.net",
+        "port": "10006"
+    },
+
+
+    "Zeqa_AS1": {
+        "ip": "as.zeqa.net",
+        "port": "10001"
+    },
+
+    "Zeqa_AS2": {
+        "ip": "as.zeqa.net",
+        "port": "10002"
+    },
+
+    "Zeqa_AS3": {
+        "ip": "as.zeqa.net",
+        "port": "10003"
+    },
+
+    "Zeqa_AS4": {
+        "ip": "as.zeqa.net",
+        "port": "10004"
+    },
+
+    "Zeqa_AS5": {
+        "ip": "as.zeqa.net",
+        "port": "10005"
+    },
+
+    "Zeqa_AS6": {
+        "ip": "as.zeqa.net",
+        "port": "10006"
+    },
+
+
+    "Zeqa_AU1": {
+        "ip": "as.zeqa.net",
+        "port": "10001"
+    },
+
+
+    "Zeqa_ZA1": {
+        "ip": "za.zeqa.net",
+        "port": "10001"
+    },
+
+
+
+    "Hesu_EU1": {
+        "ip": "141.94.99.111",
+        "port": "10070"
+    },
+
+    "Hesu_EU2": {
+        "ip": "141.94.99.111",
+        "port": "10071"
+    },
+
+
+    "Hesu_NA1": {
+        "ip": "135.148.137.229",
+        "port": "10070"
+    },
+
+    "Hesu_NA2": {
+        "ip": "135.148.137.229",
+        "port": "10071"
+    },
+
+
+    "Hesu_AS1": {
+        "ip": "15.235.204.81",
+        "port": "10070"
+    },
+
+    "Hesu_AS2": {
+        "ip": "15.235.204.81",
+        "port": "10071"
+    }
+
+}
